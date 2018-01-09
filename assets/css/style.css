@@ -1,0 +1,10 @@
+body{
+  background-color: #f50057;
+  font-family: 'Avenir', 'Helvetica', sans-serif;
+}
+#card-panel {
+	background-color: #f50057 !important;
+}
+.orange.accent-3 {
+    background-color: #f50057 !important;
+}
